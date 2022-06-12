@@ -75,7 +75,7 @@ div {
     xi yi var(--i),                /* xi and yi are the coordinates of the pixel and --i is the ith color */
     ...
 }
-<style>
+</style>
 ```
 
 
