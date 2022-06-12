@@ -45,7 +45,7 @@ Xpx Ypx var(--i),
 ```css
       box-shadow:
             ...
-            xi yi var(--i),            /* xi and yi are the coordinates of the pixel and --i is the ith color */
+            xi yi var(--m),            /* xi and yi are the coordinates of the pixel and --i is the ith color */
             ...
 ```
 
@@ -72,7 +72,7 @@ div {
   transform-origin: top left;
   box-shadow: 
     ...
-    xi yi var(--i),                /* xi and yi are the coordinates of the pixel and --i is the ith color */
+    xi yi var(--m),                /* xi and yi are the coordinates of the pixel and --m is the ith color */
     ...
 }
 </style>
