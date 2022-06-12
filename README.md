@@ -68,7 +68,6 @@ div {
   ...
   --n: #XXXXXX;
   background: var(--j);
-  display: inline-block;
   transform: scale(X);             /* X is the scale factor */
   transform-origin: top left;
   box-shadow: 
